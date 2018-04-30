@@ -20,10 +20,10 @@
   "author": "Clément Bourgoin <cb@nokto.net> (http://nokto.net/)",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^2.0.0-rc4"
+    "sequelize": "^4.37.6"
   },
   "devDependencies": {
-    "mysql": "^2.5.4",
-    "pg": "^4.1.1"
+    "mysql": "^2.15.0",
+    "pg": "^6.4.2"
   }
 }
